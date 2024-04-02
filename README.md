@@ -6,17 +6,29 @@ Please complete the report problem below:
 Provide your profitable path, the amountIn, amountOut value for each swap, and your final reward (your tokenB balance).
 
 profitable path: tokenB->tokenA->tokenD->tokenC->tokenB
+
 swap1:
+
     amountBIn: 5
+
     amountAOut: 5.655321988655322
+
 swap2:
+
     amountAIn: 5.655321988655322
+
     amountDOut: 2.458781317097934
+
 swap3:
+
     amountDIn: 2.458781317097934
+
     amountCOut: 5.088927293301516
+
 swap4:
+
     amountCIn: 5.088927293301516
+
     amountBOut: 20.129888944077447
 
 final reward: 20.129888944077447
