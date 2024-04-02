@@ -81,3 +81,18 @@ for item in path:
     answer = answer + item + "->"
 answer = answer + "tokenB"
 print(f'{answer}, token balance={result}')
+# print()
+# amount_out = swap("tokenB", "tokenA", 5, liquidity)
+# print(amount_out)
+# print(liquidity)
+# amount_out = swap("tokenA", "tokenD", amount_out, liquidity)
+# print(amount_out)
+# print(liquidity)
+#
+# amount_out = swap("tokenD", "tokenC", amount_out, liquidity)
+# print(amount_out)
+# print(liquidity)
+#
+# amount_out = swap("tokenC", "tokenB", amount_out, liquidity)
+# print(amount_out)
+# print(liquidity)
